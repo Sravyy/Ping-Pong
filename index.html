@@ -9,7 +9,24 @@
     <title>Ping-Pong</title>
   </head>
   <body>
-      <div class="container">
+      <div class="heading">
+        <h1>Ping-Pong</h1>
+      </div>
+    <!--Side Bar-->
+      <div class="left">
+        <ul class="sidebar">
+          <h3>About Ping-Pong</h3>
+          <hr>
+          <li id = "style">Created by:</li>
+          <li>Sravanthi Velaga</li>
+          <li id = "style">Github URL:</li>
+          <li><a href="https://github.com/Sravyy/Ping-Pong">My GitHub</a></li>
+          <li id = "style">Level to test for:</li>
+          <li>Javascript</li>
+        </ul>
+      </div>
+    <!--Form-->
+      <div class="container" id="main">
         <form id ="formOne">
           <h2>Let's Play!</h2>
           <h3>Rules of PingPong:</h3>
@@ -20,13 +37,13 @@
           </ol>
           <div class="form-group">
             <label for="ping">Enter your number here : </label>
-            <input id = "ping" type="number" ></input>
+            <input id = "ping" type="number" required></input>
           </div>
-          <button type="submit" class="btn">Ping-Pong!</button>
+          <button type="submit" class="btn btn-danger">Ping-Pong!</button>
         </form>
         <div id="result">
           <ul id="list"></ul>
-      </div>
+        </div>
       </div>
   </body>
 </html>

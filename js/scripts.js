@@ -1,7 +1,5 @@
-
-
-
-  function pingPong(userInput) {
+//Backend logic
+function pingPong(userInput) {
     var result = [];
     for (var i=3; i <= userInput ; i++){
       if(i <= 0){
@@ -20,13 +18,14 @@
     return result
   };
 
+// frontend logic
 $(function(){
   $("#formOne").submit(function(event){
     event.preventDefault();
 
-    var userInput = parseInt($("input#ping").val());
+    var userInput = parseInt($("input#ping").val());// input from form taken as 'userInput'
     var result = pingPong(userInput);
-    $("ul#showOutput").prepend("<li>"+ result+ "</li>");
+    $("ul#showOutput").prepend("<li>"+ result+ "</li>"); //when i have a div with ul(id=showOutput)
     $("#result").show();
   });
 });
