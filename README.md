@@ -11,9 +11,9 @@ _This is a simple project that allows the user to enter a number from 1, display
 ## Setup/Installation Requirements
 
 * _easy to clone_
-* _<a href="https://github.com/Sravyy/Ping-Pong" target="_blank">Click here for the link</a>_
+* _<a href="https://github.com/Sravyy/Ping-Pong" target="_blank">Click here</a> for the github link_
 * _can directly open in your browser_
-* _<a href="https://sravyy.github.io/Ping-Pong/" target="_blank">Click here to try it</a>_
+* _<a href="https://sravyy.github.io/Ping-Pong/" target="_blank">Click here</a> to try it_
 
 
 ## Known Bugs
