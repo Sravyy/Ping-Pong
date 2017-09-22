@@ -1,12 +1,12 @@
-# _{Ping-Pong}_
+# _Ping-Pong_
 
-#### _ {09-22-17}_
+#### _ 09-22-17_
 
-#### By _**{Sravanthi Velaga}**_
+#### By _**Sravanthi Velaga**_
 
 ## Description
 
-_{This is a simple project that allows the user to enter a number from 1, displays the output from 1 till the given number where, all those numbers that are divisible by 3 says ping, divisible by 5 says pong and divisible by 15 says ping-pong.}_
+_This is a simple project that allows the user to enter a number from 1, displays the output from 1 till the given number where, all those numbers that are divisible by 3 says ping, divisible by 5 says pong and divisible by 15 says ping-pong._
 
 ## Setup/Installation Requirements
 
@@ -16,14 +16,14 @@ _{This is a simple project that allows the user to enter a number from 1, displa
 
 ## Known Bugs
 
-_{No known bugs}_
+_No known bugs_
 
 ## Technologies Used
 
-_{HTML}_
-_{CSS}_
-_{Javascript}_
+_HTML_
+_CSS_
+_Javascript_
 
 ### License
 
-Copyright (c) 2017 **_{Sravanthi Velaga}_**
+Copyright (c) 2017 **_Sravanthi Velaga_**
