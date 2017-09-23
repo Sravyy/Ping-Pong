@@ -38,9 +38,11 @@
           <div class="form-group">
             <label for="ping">Enter your number here : </label>
             <input id = "ping" type="number" required></input>
+            <button type="submit" class="btn btn-danger">Ping-Pong!</button>
           </div>
-          <button type="submit" class="btn btn-danger">Ping-Pong!</button>
+          <input id= "refresh" type=button value="Refresh" onClick="history.go()">
         </form>
+        <br>
         <div id="result">
           <ul id="list"></ul>
         </div>
