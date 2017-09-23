@@ -1,6 +1,6 @@
 # _Ping-Pong_
 
-#### _ 09-22-17_
+#### 09-22-17
 
 #### By _**Sravanthi Velaga**_
 
